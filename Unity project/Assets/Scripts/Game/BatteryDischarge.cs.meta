@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14a1f7cc3f432ba4b92c45c7f831da25
+timeCreated: 1511774309
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dischargeSound: {fileID: 8300000, guid: 75224a054208068459e4cdcfd8d73582, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

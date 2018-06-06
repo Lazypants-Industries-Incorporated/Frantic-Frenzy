@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 93069ae176e597b49b3a5e1e69b3d5bf
+timeCreated: 1511362683
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioClipClick: {fileID: 8300000, guid: b58a65f30f3b45842b6f871bcb0b402d, type: 3}
+  - audioClipHover: {fileID: 8300000, guid: ab4a89f017502a9408c2e2fb2fe38b49, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
