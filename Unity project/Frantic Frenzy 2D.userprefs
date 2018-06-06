@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game\BatteryDischarge.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Game\Fence.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\VictoryFade.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\AudioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\BatteryDischarge.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
